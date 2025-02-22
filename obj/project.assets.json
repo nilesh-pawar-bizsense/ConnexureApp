@@ -178,11 +178,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GITREPOS\\ConnexureApp\\ConnexureApp\\Connexure.csproj",
+      "projectUniqueName": "D:\\GITREPOS\\ConnexureApp\\ConnexureTenant02\\Connexure.csproj",
       "projectName": "Connexure",
-      "projectPath": "D:\\GITREPOS\\ConnexureApp\\ConnexureApp\\Connexure.csproj",
+      "projectPath": "D:\\GITREPOS\\ConnexureApp\\ConnexureTenant02\\Connexure.csproj",
       "packagesPath": "C:\\Users\\nilesh.pawar\\.nuget\\packages\\",
-      "outputPath": "D:\\GITREPOS\\ConnexureApp\\ConnexureApp\\obj\\",
+      "outputPath": "D:\\GITREPOS\\ConnexureApp\\ConnexureTenant02\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
